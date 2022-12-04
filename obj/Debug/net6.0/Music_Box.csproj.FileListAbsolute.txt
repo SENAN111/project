@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Music_Box\obj\Debug\net6.0\Music_Box.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Music_Box\obj\Debug\net6.0\Music_Box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Music_Box\obj\Debug\net6.0\Music_Box.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Music_Box\obj\Debug\net6.0\Music_Box.AssemblyInfo.cs
+C:\Users\user\source\repos\Music_Box\obj\Debug\net6.0\Music_Box.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Music_Box\bin\Debug\net6.0\Music_Box.exe
+C:\Users\user\source\repos\Music_Box\bin\Debug\net6.0\Music_Box.deps.json
+C:\Users\user\source\repos\Music_Box\bin\Debug\net6.0\Music_Box.runtimeconfig.json
+C:\Users\user\source\repos\Music_Box\bin\Debug\net6.0\Music_Box.dll
+C:\Users\user\source\repos\Music_Box\bin\Debug\net6.0\Music_Box.pdb
+C:\Users\user\source\repos\Music_Box\obj\Debug\net6.0\Music_Box.dll
+C:\Users\user\source\repos\Music_Box\obj\Debug\net6.0\refint\Music_Box.dll
+C:\Users\user\source\repos\Music_Box\obj\Debug\net6.0\Music_Box.pdb
+C:\Users\user\source\repos\Music_Box\obj\Debug\net6.0\Music_Box.genruntimeconfig.cache
+C:\Users\user\source\repos\Music_Box\obj\Debug\net6.0\ref\Music_Box.dll
